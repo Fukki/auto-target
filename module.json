@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Auto Target",
+	"author": "Fukki",
+	"description": "Auto Target and finish your skill.",
+	"version": "Kappa :v",
+	"options": {
+		"niceName": "AT"
+	},
+	"servers": ["https://raw.githubusercontent.com/Fukki/auto-target/master/"],
+	"supportUrl": "https://github.com/Fukki/auto-target/issues/"
+}
