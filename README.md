@@ -89,6 +89,7 @@ projectile-spoof        #make projectile instant attack *just some skill
 ```
 boss              #lock only Boss Type
 npc               #lock only NPC
+npc-auto          #auto detect npc *need to touch npc 1 time
 npc-all           #lock all npc near you *not recommend
 enemy-healer      #lock only enemy healer
 enemy-class       #lock only class in setting
