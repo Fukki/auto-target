@@ -111,3 +111,9 @@ Please decrease and increase maxTarget by your self it's not auto detect.
 ```
 # Auto Cast not working
 goto your SP or PR config and disable that skill you want to auto-cast from this moudule
+
+# Warning
+This module has more effect in PVP and PVE</br>
+So i need to hide my code with encryption</br>
+If you don't trust please leave from this</br>
+P.S. YES IT'S FREE, BUT I'M SLOW UPDATE
