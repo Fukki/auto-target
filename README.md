@@ -109,7 +109,7 @@ enemy = PVP Only, member = party or raid.
 maxTarget is Follow your skill max target and glyph.
 Please decrease and increase maxTarget by your self it's not auto detect.
 ```
-# Auto Cast not working
+# Auto Target not working and skill try to spam
 goto your SP or PR config and disable that skill you want to auto-cast from this moudule
 
 # Warning
