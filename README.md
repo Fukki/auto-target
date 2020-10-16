@@ -116,4 +116,4 @@ goto your SP or PR config and disable that skill you want to auto-cast from this
 This module has more effect in PVP and PVE</br>
 So i need to hide my code with encryption</br>
 If you don't trust please leave from this</br>
-P.S. YES IT'S FREE, BUT I'M SLOW UPDATE
+P.S. YES IT'S FREE, THIS MODULE SLOW UPDATE BECAUSE I'M SO BUSY
