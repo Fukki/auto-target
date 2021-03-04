@@ -95,6 +95,7 @@ enemy-healer      #lock only enemy healer
 enemy-class       #lock only class in setting
 enemy-inbuff      #lock only enemy got buff
 enemy-notbuff     #lock only enemy not have buff
+enemy-auto        #auto detect enemy player *need to touch player 1 time
 enemy-all         #lock all enemy near you
 member-healer     #lock only alliance healer
 member-class      #lock only alliance class in setting
